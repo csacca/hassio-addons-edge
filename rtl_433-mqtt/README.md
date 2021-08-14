@@ -22,5 +22,5 @@ If you are more interested in stable releases of our add-ons:
 
 <https://github.com/csacca/hassio-addons>
 
-[release-shield]: https://img.shields.io/badge/version-v0.0.1-blue.svg
-[release]: https://github.com/csacca/addon-rtl_433-mqtt/tree/v0.0.1
+[release-shield]: https://img.shields.io/badge/version-057353c-blue.svg
+[release]: https://github.com/csacca/addon-rtl_433-mqtt/tree/057353c
