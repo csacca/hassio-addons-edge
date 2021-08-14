@@ -110,10 +110,10 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-[addon-rtl_433-mqtt]: https://github.com/csacca/addon-rtl_433-mqtt/tree/1126cc0
-[addon-doc-rtl_433-mqtt]: https://github.com/csacca/addon-rtl_433-mqtt/blob/1126cc0/README.md
+[addon-rtl_433-mqtt]: https://github.com/csacca/addon-rtl_433-mqtt/tree/e572102
+[addon-doc-rtl_433-mqtt]: https://github.com/csacca/addon-rtl_433-mqtt/blob/e572102/README.md
 [rtl_433-mqtt-issue]: https://github.com/csacca/addon-rtl_433-mqtt/issues
-[rtl_433-mqtt-version-shield]: https://img.shields.io/badge/version-1126cc0-blue.svg
+[rtl_433-mqtt-version-shield]: https://img.shields.io/badge/version-e572102-blue.svg
 [rtl_433-mqtt-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [rtl_433-mqtt-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [rtl_433-mqtt-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg

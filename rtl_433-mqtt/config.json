@@ -1,6 +1,6 @@
 {
   "name": "rtl_433 to MQTT",
-  "version": "1126cc0",
+  "version": "e572102",
   "slug": "rtl_433-mqtt",
   "description": "rtl_443 to MQTT add-on",
   "url": "https://github.com/csacca/addon-rtl_433-mqtt",
