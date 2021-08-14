@@ -1,7 +1,7 @@
 ---
 channel: edge
 addons:
-  rtl4432mqtt:
+  rtl_433-mqtt:
     repository: csacca/addon-rtl_433-mqtt
     target: rtl_433-mqtt
     image: ghcr.io/csacca/rtl_433-mqtt/{arch}
