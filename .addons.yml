@@ -1,0 +1,7 @@
+---
+channel: edge
+addons:
+  rtl4432mqtt:
+    repository: csacca/rtl4432mqtt
+    target: rtl4432mqtt
+    image: ghcr.io/csacca/rtl4432mqtt/{arch}
