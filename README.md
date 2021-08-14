@@ -41,6 +41,19 @@ https://github.com/csacca/hassio-addons-edge
 
 ## Add-ons provided by this repository
 
+### &#10003; [rtl_433 to MQTT][addon-rtl_433-mqtt]
+
+![Latest Version][rtl_433-mqtt-version-shield]
+![Supports armhf Architecture][rtl_433-mqtt-armhf-shield]
+![Supports armv7 Architecture][rtl_433-mqtt-armv7-shield]
+![Supports aarch64 Architecture][rtl_433-mqtt-aarch64-shield]
+![Supports amd64 Architecture][rtl_433-mqtt-amd64-shield]
+![Supports i386 Architecture][rtl_433-mqtt-i386-shield]
+
+rtl_443 to MQTT add-on
+
+[:books: rtl_433 to MQTT add-on documentation][addon-doc-rtl_433-mqtt]
+
 ## Releases
 
 Add-on releases are **NOT** based on [Semantic Versioning][semver], unlike
@@ -59,6 +72,7 @@ You could also open an issue here on GitHub. Note, we use a separate
 GitHub repository for each add-on. Please ensure you are creating the issue
 on the correct GitHub repository matching the add-on.
 
+- [Open an issue for the add-on: rtl_433 to MQTT][rtl_433-mqtt-issue]
 
 For a general repository issue or add-on ideas [open an issue here][issue]
 
@@ -96,6 +110,15 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
+[addon-rtl_433-mqtt]: https://github.com/csacca/addon-rtl_433-mqtt/tree/v0.0.1
+[addon-doc-rtl_433-mqtt]: https://github.com/csacca/addon-rtl_433-mqtt/blob/v0.0.1/README.md
+[rtl_433-mqtt-issue]: https://github.com/csacca/addon-rtl_433-mqtt/issues
+[rtl_433-mqtt-version-shield]: https://img.shields.io/badge/version-v0.0.1-blue.svg
+[rtl_433-mqtt-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
+[rtl_433-mqtt-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
+[rtl_433-mqtt-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
+[rtl_433-mqtt-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
+[rtl_433-mqtt-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
 [csacca]: https://github.com/csacca
 [issue]: https://github.com/csacca/hassio-addons-edge/issues
 [license-shield]: https://img.shields.io/github/license/csacca/hassio-addons-edge.svg
