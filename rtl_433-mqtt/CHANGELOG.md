@@ -1,4 +1,6 @@
 # Changelog since v0.0.1
+- Prettified Code! 
+- chore: added devcontainer 
 - Merge pull request #3 from csacca/dependabot/github_actions/frenck/action-addon-linter-2.3
 
 maintenance: Bump frenck/action-addon-linter from 2.2 to 2.3 
