@@ -1,4 +1,7 @@
 # Changelog since v0.0.1
+- Merge branch 'main' of github.com:csacca/addon-rtl_433-mqtt into main 
+- refactor: modified to support multiple rtl_sdr's 
+- chore: added .gitattributes file 
 - Prettified Code! 
 - chore: added devcontainer 
 - Merge pull request #3 from csacca/dependabot/github_actions/frenck/action-addon-linter-2.3

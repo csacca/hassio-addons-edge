@@ -1,6 +1,6 @@
 {
   "name": "rtl_433 to MQTT",
-  "version": "b10cc57",
+  "version": "bb0c084",
   "slug": "rtl_433-mqtt",
   "description": "rtl_443 to MQTT add-on",
   "url": "https://github.com/csacca/addon-rtl_433-mqtt",
@@ -16,15 +16,26 @@
     "armv7",
     "i386"
   ],
+  "map": [
+    "addons:rw"
+  ],
   "options": {
-    "device": "0",
-    "verbose": 0,
-    "frequency": 433920000
+    "devices": [
+      {
+        "device": null,
+        "verbose": "0",
+        "frequency": "433.92M"
+      }
+    ]
   },
   "schema": {
-    "device": "str",
-    "verbose": "list(0|1|2|3|4)",
-    "frequency": "int"
+    "devices": [
+      {
+        "device": "str",
+        "verbose": "str",
+        "frequency": "str"
+      }
+    ]
   },
   "image": "ghcr.io/csacca/rtl_433-mqtt/{arch}"
 }
