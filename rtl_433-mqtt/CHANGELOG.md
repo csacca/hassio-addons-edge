@@ -1,4 +1,5 @@
 # Changelog since v0.0.1
+- chore: debugging config issue 
 - Merge branch 'main' of github.com:csacca/addon-rtl_433-mqtt into main 
 - refactor: modified to support multiple rtl_sdr's 
 - chore: added .gitattributes file 
