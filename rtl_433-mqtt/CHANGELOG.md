@@ -1,4 +1,5 @@
 # Changelog since v0.0.1
+- chore: more debugging of multiple mqtt clients having same client_it 
 - fix: typo 
 - chore: debugging config issue 
 - Merge branch 'main' of github.com:csacca/addon-rtl_433-mqtt into main 
