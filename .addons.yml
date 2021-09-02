@@ -5,3 +5,7 @@ addons:
     repository: csacca/addon-rtl_433-mqtt
     target: rtl_433-mqtt
     image: ghcr.io/csacca/rtl_433-mqtt/{arch}
+  mqtt-explorer:
+    repository: csacca/addon-mqtt-explorer
+    target: mqtt-explorer
+    image: ghcr.io/csacca/mqtt-explorer/{arch}
