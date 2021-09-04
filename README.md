@@ -41,6 +41,19 @@ https://github.com/csacca/hassio-addons-edge
 
 ## Add-ons provided by this repository
 
+### &#10003; [MQTT Explorer][addon-mqtt-explorer]
+
+![Latest Version][mqtt-explorer-version-shield]
+![Supports armhf Architecture][mqtt-explorer-armhf-shield]
+![Supports armv7 Architecture][mqtt-explorer-armv7-shield]
+![Supports aarch64 Architecture][mqtt-explorer-aarch64-shield]
+![Supports amd64 Architecture][mqtt-explorer-amd64-shield]
+![Supports i386 Architecture][mqtt-explorer-i386-shield]
+
+Home Assistant addon for MQTT Explorer
+
+[:books: MQTT Explorer add-on documentation][addon-doc-mqtt-explorer]
+
 ### &#10003; [rtl_433 to MQTT][addon-rtl_433-mqtt]
 
 ![Latest Version][rtl_433-mqtt-version-shield]
@@ -72,6 +85,7 @@ You could also open an issue here on GitHub. Note, we use a separate
 GitHub repository for each add-on. Please ensure you are creating the issue
 on the correct GitHub repository matching the add-on.
 
+- [Open an issue for the add-on: MQTT Explorer][mqtt-explorer-issue]
 - [Open an issue for the add-on: rtl_433 to MQTT][rtl_433-mqtt-issue]
 
 For a general repository issue or add-on ideas [open an issue here][issue]
@@ -110,6 +124,15 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
+[addon-mqtt-explorer]: https://github.com/csacca/addon-mqtt-explorer/tree/f9af1ef
+[addon-doc-mqtt-explorer]: https://github.com/csacca/addon-mqtt-explorer/blob/f9af1ef/README.md
+[mqtt-explorer-issue]: https://github.com/csacca/addon-mqtt-explorer/issues
+[mqtt-explorer-version-shield]: https://img.shields.io/badge/version-f9af1ef-blue.svg
+[mqtt-explorer-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
+[mqtt-explorer-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
+[mqtt-explorer-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
+[mqtt-explorer-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
+[mqtt-explorer-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
 [addon-rtl_433-mqtt]: https://github.com/csacca/addon-rtl_433-mqtt/tree/752c63d
 [addon-doc-rtl_433-mqtt]: https://github.com/csacca/addon-rtl_433-mqtt/blob/752c63d/README.md
 [rtl_433-mqtt-issue]: https://github.com/csacca/addon-rtl_433-mqtt/issues
