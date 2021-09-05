@@ -1,6 +1,6 @@
 {
   "name": "MQTT Explorer",
-  "version": "d0f1e6c",
+  "version": "90fbb60",
   "slug": "mqtt-explorer",
   "description": "Home Assistant addon for MQTT Explorer",
   "arch": [
@@ -13,6 +13,7 @@
   "init": false,
   "ingress": true,
   "ingress_entry": "vnc_lite.html",
+  "panel_icon": "mdi:cloud-outline",
   "services": [
     "mqtt:need"
   ],

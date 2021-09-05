@@ -1,1 +1,1 @@
-- markdownlint corrections
+- Added panel icon
