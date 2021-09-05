@@ -124,10 +124,10 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-[addon-mqtt-explorer]: https://github.com/csacca/addon-mqtt-explorer/tree/f9af1ef
-[addon-doc-mqtt-explorer]: https://github.com/csacca/addon-mqtt-explorer/blob/f9af1ef/README.md
+[addon-mqtt-explorer]: https://github.com/csacca/addon-mqtt-explorer/tree/690c156
+[addon-doc-mqtt-explorer]: https://github.com/csacca/addon-mqtt-explorer/blob/690c156/README.md
 [mqtt-explorer-issue]: https://github.com/csacca/addon-mqtt-explorer/issues
-[mqtt-explorer-version-shield]: https://img.shields.io/badge/version-f9af1ef-blue.svg
+[mqtt-explorer-version-shield]: https://img.shields.io/badge/version-690c156-blue.svg
 [mqtt-explorer-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [mqtt-explorer-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [mqtt-explorer-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg

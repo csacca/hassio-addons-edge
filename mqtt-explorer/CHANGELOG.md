@@ -1,1 +1,1 @@
-- chore: Bump to trigger build
+- ci: moved .deb build to external repository
