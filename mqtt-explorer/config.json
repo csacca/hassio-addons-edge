@@ -1,6 +1,6 @@
 {
   "name": "MQTT Explorer",
-  "version": "690c156",
+  "version": "d0f1e6c",
   "slug": "mqtt-explorer",
   "description": "Home Assistant addon for MQTT Explorer",
   "arch": [
@@ -9,6 +9,7 @@
     "armv7"
   ],
   "url": "https://github.com/csacca/addon-mqtt-explorer",
+  "boot": "manual",
   "init": false,
   "ingress": true,
   "ingress_entry": "vnc_lite.html",

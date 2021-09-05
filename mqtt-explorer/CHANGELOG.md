@@ -1,1 +1,1 @@
-- ci: moved .deb build to external repository
+- markdownlint corrections
