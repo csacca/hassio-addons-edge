@@ -1,6 +1,6 @@
 {
   "name": "MQTT Explorer",
-  "version": "90fbb60",
+  "version": "beb3a1b",
   "slug": "mqtt-explorer",
   "description": "Home Assistant addon for MQTT Explorer",
   "arch": [
