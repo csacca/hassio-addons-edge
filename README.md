@@ -133,10 +133,10 @@ SOFTWARE.
 [mqtt-explorer-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
 [mqtt-explorer-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [mqtt-explorer-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
-[addon-rtl_433-mqtt]: https://github.com/csacca/addon-rtl_433-mqtt/tree/df2e7e7
-[addon-doc-rtl_433-mqtt]: https://github.com/csacca/addon-rtl_433-mqtt/blob/df2e7e7/README.md
+[addon-rtl_433-mqtt]: https://github.com/csacca/addon-rtl_433-mqtt/tree/13f0dd3
+[addon-doc-rtl_433-mqtt]: https://github.com/csacca/addon-rtl_433-mqtt/blob/13f0dd3/README.md
 [rtl_433-mqtt-issue]: https://github.com/csacca/addon-rtl_433-mqtt/issues
-[rtl_433-mqtt-version-shield]: https://img.shields.io/badge/version-df2e7e7-blue.svg
+[rtl_433-mqtt-version-shield]: https://img.shields.io/badge/version-13f0dd3-blue.svg
 [rtl_433-mqtt-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [rtl_433-mqtt-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [rtl_433-mqtt-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
